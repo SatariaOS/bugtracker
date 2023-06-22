@@ -1,0 +1,2 @@
+# bugtracker
+SatisOS bugtracker
